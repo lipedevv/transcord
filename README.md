@@ -19,7 +19,8 @@ Clone este repositório:
 
 ```bash
 git clone https://github.com/lipedevv/transcord.git
-cd transcord```
+cd transcord
+````
 
 # 📢 AVISO!
 
