@@ -20,3 +20,7 @@ Clone este repositório:
 ```bash
 git clone https://github.com/lipedevv/transcord.git
 cd transcord
+
+# 📢 AVISO!
+
+Infelizmente a api desse projeto não está disponível!
